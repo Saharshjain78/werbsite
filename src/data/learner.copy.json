@@ -1,0 +1,37 @@
+{
+  "hero": {
+    "eyebrow": "AI-NATIVE LEARNING PLATFORM",
+    "headline": "Learn at the speed of your curiosity",
+    "subheadline": "ZeroEka maps your knowledge, adapts to your pace, and builds your constellation of expertise — one insight at a time.",
+    "primaryCta": "Start Learning Free",
+    "secondaryCta": "Watch How It Works"
+  },
+  "trust": {
+    "microcopy": "Trusted by learners at",
+    "logosPlaceholder": "// TODO: replace with real asset"
+  },
+  "problem": {
+    "cards": [
+      "Generic courses. Generic pace. Generic results.",
+      "You forget 70% of what you learned last week.",
+      "Learning apps built for engagement, not mastery."
+    ]
+  },
+  "howItWorks": {
+    "headline": "Your knowledge, visualised and growing",
+    "steps": [
+      "Map your starting point",
+      "Let the AI chart your path",
+      "Watch your constellation expand"
+    ]
+  },
+  "faq": {
+    "q1": {
+      "question": "Is ZeroEka free to use?",
+      "answer": "Yes, we offer a generous free tier for individual learners."
+    }
+  },
+  "cta": {
+    "headline": "Your constellation is waiting"
+  }
+}

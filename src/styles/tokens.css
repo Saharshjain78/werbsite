@@ -1,0 +1,40 @@
+:root {
+  /* Color Tokens */
+  --color-void: #050814;
+  --color-void-2: #0D1117;
+  --color-violet: #7C3AED;
+  --color-violet-glow: #A78BFA;
+  --color-gold: #F5A623;
+  --color-gold-glow: #FCD34D;
+  --color-stellar: #E2E8F0;
+  --color-nebula: #94A3B8;
+  --color-orbit: #1E293B;
+
+  /* Custom overrides per instructions */
+  --cosmic-primary: #3B82F6;
+  --cosmic-accent: #8B5CF6;
+  --cosmic-dark: #030712;
+
+  /* Typography Tokens */
+  --font-display: 'Clash Display', sans-serif;
+  --font-body: 'Syne', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  --text-display: clamp(3rem, 6vw, 6rem);
+  --text-h1: clamp(2rem, 4vw, 3.5rem);
+  --text-h2: clamp(1.5rem, 3vw, 2.5rem);
+  --text-body-lg: 1.25rem;
+  --text-body: 1rem;
+  --text-small: 0.875rem;
+  --text-mono: 0.875rem;
+
+  /* Spacing & Layout Tokens */
+  --section-padding: clamp(5rem, 10vw, 10rem);
+  --container-max: 1280px;
+  --container-pad: clamp(1rem, 5vw, 4rem);
+  
+  --radius-card: 1rem;
+  --radius-btn: 0.5rem;
+  
+  --blur-glass: blur(12px);
+}

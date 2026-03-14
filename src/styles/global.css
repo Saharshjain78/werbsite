@@ -1,0 +1,30 @@
+@import './fonts.css';
+@import './tokens.css';
+
+/* Tailwind base, components, and utilities */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--cosmic-dark);
+  color: var(--color-stellar);
+  font-family: var(--font-body);
+  overscroll-behavior: none;
+  line-height: 1.6;
+  letter-spacing: 0.02em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+#root {
+  min-height: 100vh;
+}

@@ -1,0 +1,38 @@
+{
+  "hero": {
+    "headline": "Turn your team's learning into measurable ROI",
+    "subheadline": "ZeroEka gives L&D teams real-time visibility into skill gaps, learning velocity, and training outcomes across every team.",
+    "primaryCta": "Book a Demo",
+    "secondaryCta": "Download Brochure"
+  },
+  "stats": [
+    "68% of L&D leaders say their current LMS lacks personalisation",
+    "Employees forget 90% of training content within a week without reinforcement",
+    "Companies lose $13.5M annually per 1,000 employees to ineffective training"
+  ],
+  "solutions": [
+    {
+      "title": "Adaptive Learning Paths",
+      "description": "Customise training journeys based on employee roles, goals, and existing skill gaps."
+    },
+    {
+      "title": "AI-Powered Content Engine",
+      "description": "Automatically ingest and convert your internal documents into interactive training modules."
+    },
+    {
+      "title": "Real-Time Analytics",
+      "description": "Gain full cohort visibility with granular tracking on learning velocity and completion rates."
+    },
+    {
+      "title": "Enterprise Integrations",
+      "description": "Seamlessly connect with your existing HRIS, LMS, and single sign-on (SSO) providers."
+    }
+  ],
+  "security": {
+    "headline": "Enterprise-grade security. Built from day one.",
+    "sla": "99.9% uptime SLA. SOC 2 Type II in progress. GDPR and India DPDP compliant."
+  },
+  "cta": {
+    "headline": "Ready to see ZeroEka in action?"
+  }
+}
